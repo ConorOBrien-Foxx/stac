@@ -1,0 +1,9 @@
+{
+	"name": "stac",
+	"authors": [
+		"Conor O'Brien"
+	],
+	"description": "Stack-based language",
+	"copyright": "Copyright © 2017, Conor O'Brien",
+	"license": "proprietary"
+}
